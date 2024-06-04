@@ -13,6 +13,7 @@
 - open a terminal
   - type  ```ollama run phi3```
   - wait it download
+  - close that terminal
 
 ## Step 2: PrivateGPT
 - open another terminal
