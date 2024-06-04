@@ -1,6 +1,6 @@
 # PrivateLLMGUI
 
-
+![](https://raw.githubusercontent.com/YodaGitMaster/PrivateLLMGUI/main/logo.jpg)
 ## Requirements:
 - python-3
 - Graphic Card
