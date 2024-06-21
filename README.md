@@ -2,6 +2,8 @@
 
 ![](https://raw.githubusercontent.com/YodaGitMaster/PrivateLLMGUI/main/images/logo.jpg)
 
+This is a barebone pure python interface for Ollama, it is very good if you need to start to learn or just want something easy and quick to start to build upon. 
+![]()
 ## Requirements:
 - python-3
 - Graphic Card
